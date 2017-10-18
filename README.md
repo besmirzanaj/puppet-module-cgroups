@@ -16,7 +16,9 @@ using Ruby versions 1.8.7 (Puppet v3 only), 1.9.3, 2.0.0, 2.1.0 and 2.3.1.
   * SLED 11 SP2
   * SLES 11 SP2
 
-[![Build Status](https://travis-ci.org/Ericsson/puppet-module-cgroups.png?branch=master)](https://travis-ci.org/Ericsson/puppet-module-cgroups)
+Ericsoon build [![Build Status](https://travis-ci.org/Ericsson/puppet-module-cgroups.png?branch=master)](https://travis-ci.org/Ericsson/puppet-module-cgroups)
+
+Besmirzanaj [![Build Status](https://travis-ci.org/besmirzanaj/puppet-module-cgroups.svg?branch=master)](https://travis-ci.org/besmirzanaj/puppet-module-cgroups)
 
 ## Class `cgroups`
 
